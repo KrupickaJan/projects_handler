@@ -1,0 +1,8 @@
+.add-form {
+  display: flex;
+  width: 500px;
+  padding: 10px 0;
+  align-items: center;
+  justify-content: center;
+  background-color: gray;
+}
